@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Reflex</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="object_array">
+
+        <item>Cuttack</item>
+
+        <item>Bhubaneswar</item>
+
+
+    </string-array>
+
+    <string-array name="startbus">
+
+        <item>Nandan-Kanan</item>
+
+        <item>Airport</item>
+        <item>KIIT Campus</item>
+
+        <item>Balakati Bazaar</item>
+        <item>Kalpana</item>
+
+        <item>Khurda</item>
+        <item>Master Canteen</item>
+
+        <item>Dumduma</item>
+        <item>VSS Nagar</item>
+
+
+
+    </string-array>
+    <string-array name="endbus">
+
+        <item>Nandan-Kanan</item>
+
+        <item>Airport</item>
+        <item>KIIT Campus</item>
+
+        <item>Balakati Bazaar</item>
+        <item>Kalpana</item>
+
+        <item>Khurda</item>
+        <item>Master Canteen</item>
+
+        <item>Dumduma</item>
+        <item>VSS Nagar</item>
+
+
+
+    </string-array>
+    <string name="title_activity_buses">BUSES</string>
+    <string name="title_activity_trains">trains</string>
+</resources>
